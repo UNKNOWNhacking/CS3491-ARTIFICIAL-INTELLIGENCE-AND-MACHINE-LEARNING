@@ -80,7 +80,7 @@
 
 <br clear="both">
 
-<p align="left">Implementation of Uninformed search algorithms (BFS, DFS) </p>
+<p align="left">1. Implementation of Uninformed search algorithms (BFS, DFS)</p>
 
 ###
 
