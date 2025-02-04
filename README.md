@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-<h2 align="center">DATABASE MANAGEMENT SYSTEMS LABORATORY</h2>
+<h2 align="center">ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING</h2>
 
 ###
 
