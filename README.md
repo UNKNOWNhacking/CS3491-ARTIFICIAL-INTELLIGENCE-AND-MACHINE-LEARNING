@@ -86,73 +86,68 @@
 
 <br clear="both">
 
-<p align="left">2. Create a set of tables, add foreign key constraints and incorporate referential integrity.</p>
+<p align="left">2. Implementation of Informed search algorithms (A*, memory-bounded A*)</p>
 
 ###
 
 <br clear="both">
 
-<p align="left">3. Query the database tables using different ‘where’ clause conditions and also implement <br>aggregate functions.</p>
+<p align="left">3. Implement naïve Bayes models </p>
 
 ###
 
 <br clear="both">
 
-<p align="left">4. Query the database tables and explore sub queries and simple join operations.</p>
+<p align="left">4. Implement Bayesian Networks </p>
 
 ###
 
 <br clear="both">
 
-<p align="left">5. Query the database tables and explore natural, equi and outer joins.</p>
+<p align="left">5. Build Regression models </p>
 
 ###
 
 <br clear="both">
 
-<p align="left">6. Write user defined functions and stored procedures in SQL.</p>
+<p align="left">6. Build decision trees and random forests</p>
 
 ###
 
 <br clear="both">
 
-<p align="left">7. Execute complex transactions and realize DCL and TCL commands.</p>
+<p align="left">7. Build SVM models </p>
 
 ###
 
 <br clear="both">
 
-<p align="left">8. Write SQL Triggers for insert, delete, and update operations in a database table.</p>
+<p align="left">8. Implement ensembling techniques</p>
 
 ###
 
 <br clear="both">
 
-<p align="left">9. Create View and index for database tables with a large number of records.</p>
+<p align="left">9. Implement clustering algorithms </p>
 
 ###
 
 <br clear="both">
 
-<p align="left">10. Create an XML database and validate it using XML schema.</p>
+<p align="left">10. Implement EM for Bayesian networks</p>
 
 ###
 
 <br clear="both">
 
-<p align="left">11. Create Document, column and graph based data using NOSQL database tools.</p>
+<p align="left">11. Build simple NN models </p>
 
 ###
 
 <br clear="both">
 
-<p align="left">12.  Develop a simple GUI based database application and incorporate all the above<br>mentioned features</p>
+<p align="left">12. Build deep learning NN models</p>
 
-###
-
-<br clear="both">
-
-<p align="left">13. Case Study using any of the real life database applications from the following list <br>a) Inventory Management for a EMart Grocery Shop <br>b) Society Financial Management <br>c) Cop Friendly App – Eseva <br>d) Property Management – eMall <br>e) Star Small and Medium Banking and Finance <br>● Build Entity Model diagram. The diagram should align with the business and functional <br>goals stated in the application. <br>● Apply Normalization rules in designing the tables in scope. <br>● Prepared applicable views, triggers (for auditing purposes), functions for enabling <br>enterprise grade features. <br>● Build PL SQL / Stored Procedures for Complex Functionalities, ex EOD Batch <br>Processing for calculating the EMI for Gold Loan for each eligible Customer. <br>● Ability to showcase ACID Properties with sample queries with appropriate settings</p>
 
 ###
 
