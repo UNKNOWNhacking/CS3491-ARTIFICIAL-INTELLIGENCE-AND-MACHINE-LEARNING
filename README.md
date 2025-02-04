@@ -159,6 +159,6 @@
 
 <br clear="both">
 
-<p align="left">MySQL Download : https://dev.mysql.com/downloads/</p>
+<p align="left">MySQL Download : [https://dev.mysql.com/downloads](https://www.python.org/)/</p>
 
 ###
