@@ -80,7 +80,7 @@
 
 <br clear="both">
 
-<p align="left">1. Create a database table, add constraints (primary key, unique, check, Not null), insert rows, <br>update and delete rows using SQL DDL and DML commands.</p>
+<p align="left">Implementation of Uninformed search algorithms (BFS, DFS) </p>
 
 ###
 
