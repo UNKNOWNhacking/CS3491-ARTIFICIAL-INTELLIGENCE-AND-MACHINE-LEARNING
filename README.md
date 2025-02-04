@@ -10,7 +10,7 @@
 
 ###
 
-https://colab.research.google.com/github/UNKNOWNhacking/CS3491-ARTIFICIAL-INTELLIGENCE-AND-MACHINE-LEARNING/blob/main/CS3491_ARTIFICIAL_INTELLIGENCE_AND_MACHINE_LEARNING.ipynb
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UNKNOWNhacking&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&custom_title=PUGALMANI%20A" height="150" alt="stats graph"  />
