@@ -9,7 +9,38 @@
 <h2 align="left">Hi 👋! My name is UNKNOWN and I'm Studying in RPSIT</h2>
 
 ###
-
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "collapsed_sections": [
+        "rFn5ejWnOk06",
+        "stSWFOmCN7_b"
+      ],
+      "authorship_tag": "ABX9TyMIbC7HoY1DIkFiQeKE/AyZ",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/UNKNOWNhacking/CS3491-ARTIFICIAL-INTELLIGENCE-AND-MACHINE-LEARNING/blob/main/CS3491_ARTIFICIAL_INTELLIGENCE_AND_MACHINE_LEARNING.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UNKNOWNhacking&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&custom_title=PUGALMANI%20A" height="150" alt="stats graph"  />
