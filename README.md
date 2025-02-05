@@ -159,6 +159,6 @@
 
 <br clear="both">
 
-<p align="left">MySQL Download : https://www.python.org/</p>
+<p align="left">Python Download : https://www.python.org/</p>
 
 ###
